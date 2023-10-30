@@ -7,21 +7,29 @@ The Scientific Calculator App is a mobile application, designed to meet the adva
 # Feature:
 
 1.Advanced Mathematical Functions
+
 2.Complex Number Support
 
 3.Statistical Functions
 
 4.Triginometry Functions
+
 5.Equation Solving
+
 6.Precision and Accuracy
 
 # Objectives:
 
 1.Facilitate Complex Calculations
+
 2.Educational Support
+
 3.Scientific Research
+
 4.Engineering and Technical Use
+
 5.User Convenience
+
 6.Portability
 
 # Output:
