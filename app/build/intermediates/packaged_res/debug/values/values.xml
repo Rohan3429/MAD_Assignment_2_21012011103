@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#RRGGBB</color>
+    <color name="colorPrimary">#RRGGBB</color>
+    <color name="colorPrimaryDark">#RRGGBB</color>
+    <color name="ic_launcher_background">#DD574C</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Calculator</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+</style>
+    <style name="Base.Theme.Scientific_Calculator" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="colorAccent">#de584d</item>
+        <item name="colorPrimaryDark">#D83F33</item>
+    </style>
+    <style name="Theme.Scientific_Calculator" parent="Base.Theme.Scientific_Calculator"/>
+</resources>
