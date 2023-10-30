@@ -22,10 +22,10 @@ com.example.MAD_Assignment_2_21012011103.app-drawerlayout-1.1.1-20 C:\Users\roha
 com.example.MAD_Assignment_2_21012011103.app-startup-runtime-1.1.1-21 C:\Users\rohan\.gradle\caches\transforms-3\f26718322a501c5a7e9362b2458c18c1\transformed\startup-runtime-1.1.1\res
 com.example.MAD_Assignment_2_21012011103.app-lifecycle-livedata-core-2.5.1-22 C:\Users\rohan\.gradle\caches\transforms-3\f29f12aa2e7285b7793c7173a1edf8b8\transformed\lifecycle-livedata-core-2.5.1\res
 com.example.MAD_Assignment_2_21012011103.app-appcompat-resources-1.6.1-23 C:\Users\rohan\.gradle\caches\transforms-3\f432505b8749195d0f9b890734873fbf\transformed\appcompat-resources-1.6.1\res
-com.example.MAD_Assignment_2_21012011103.app-pngs-24 C:\Users\rohan\Downloads\New folder\MAD_Assignment_2_21012011103\app\build\generated\res\pngs\debug
-com.example.MAD_Assignment_2_21012011103.app-resValues-25 C:\Users\rohan\Downloads\New folder\MAD_Assignment_2_21012011103\app\build\generated\res\resValues\debug
-com.example.MAD_Assignment_2_21012011103.app-packageDebugResources-26 C:\Users\rohan\Downloads\New folder\MAD_Assignment_2_21012011103\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.MAD_Assignment_2_21012011103.app-packageDebugResources-27 C:\Users\rohan\Downloads\New folder\MAD_Assignment_2_21012011103\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.MAD_Assignment_2_21012011103.app-merged_res-28 C:\Users\rohan\Downloads\New folder\MAD_Assignment_2_21012011103\app\build\intermediates\merged_res\debug
-com.example.MAD_Assignment_2_21012011103.app-debug-29 C:\Users\rohan\Downloads\New folder\MAD_Assignment_2_21012011103\app\src\debug\res
-com.example.MAD_Assignment_2_21012011103.app-main-30 C:\Users\rohan\Downloads\New folder\MAD_Assignment_2_21012011103\app\src\main\res
+com.example.MAD_Assignment_2_21012011103.app-pngs-24 C:\Users\rohan\AndroidStudioProjects\MAD_Assignment_2_21012011103\app\build\generated\res\pngs\debug
+com.example.MAD_Assignment_2_21012011103.app-resValues-25 C:\Users\rohan\AndroidStudioProjects\MAD_Assignment_2_21012011103\app\build\generated\res\resValues\debug
+com.example.MAD_Assignment_2_21012011103.app-packageDebugResources-26 C:\Users\rohan\AndroidStudioProjects\MAD_Assignment_2_21012011103\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.MAD_Assignment_2_21012011103.app-packageDebugResources-27 C:\Users\rohan\AndroidStudioProjects\MAD_Assignment_2_21012011103\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.MAD_Assignment_2_21012011103.app-merged_res-28 C:\Users\rohan\AndroidStudioProjects\MAD_Assignment_2_21012011103\app\build\intermediates\merged_res\debug
+com.example.MAD_Assignment_2_21012011103.app-debug-29 C:\Users\rohan\AndroidStudioProjects\MAD_Assignment_2_21012011103\app\src\debug\res
+com.example.MAD_Assignment_2_21012011103.app-main-30 C:\Users\rohan\AndroidStudioProjects\MAD_Assignment_2_21012011103\app\src\main\res
