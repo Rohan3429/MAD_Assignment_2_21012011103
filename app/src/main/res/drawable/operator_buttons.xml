@@ -7,7 +7,7 @@
             android:shape="rectangle"
             android:useLevel="false">
 
-            <solid android:color="@color/green"/>
+            <solid android:color="@color/colorPrimaryDark"/>
 
             <padding
                 android:left="5dp"
@@ -24,7 +24,7 @@
             android:shape="rectangle"
             android:useLevel="false">
 
-            <solid android:color="@color/operator_btn_clr"/>
+            <solid android:color="@color/colorPrimaryDark"/>
 
             <padding
                 android:left="5dp"
@@ -41,7 +41,7 @@
             android:shape="rectangle"
             android:useLevel="false">
 
-            <solid android:color="@color/operator_btn_clr"/>
+            <solid android:color="@color/colorPrimaryDark"/>
 
             <padding
                 android:left="5dp"
